@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = "http://127.0.0.1:8000/customers"
+BASE_URL = "https://ditch-exes-tribesman.ngrok-free.dev/customers"
 
 
 def get_customers():
